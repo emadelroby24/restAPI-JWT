@@ -14,6 +14,10 @@ It implements JWT-based REST API auth designed for mobile app integration, howev
 
 - <a href="https://jwt-auth.readthedocs.io/en/develop/laravel-installation">[tymon/jwt-auth]</a> 
 
+## Project Setup
+
+php artisan app:setup-app
+
 ### System Design Notes
 
 1. I used invisible method in users table creation to hide the password and remmber_token fields.

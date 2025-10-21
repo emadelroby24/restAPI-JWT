@@ -29,6 +29,6 @@ class SetUpApp extends Command
         Artisan::call('migrate:fresh', [
             '--seed' => true
         ]);
-        $this->line('The project installed successfully.');
+        $this->line('The project has been installed successfully.');
     }
 }

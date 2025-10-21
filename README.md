@@ -2,7 +2,7 @@
 
 This repository is a part of larger project that I developed to demonstrate my backend development approach. Focusing on writing clean, well structured, high performance code that scales effectively.
 
-I'm always open to collaboration. Feel free to share any comments, suggestions or discussions at <a href="mailto:emadelroby24@gmail.com">emadelroby24@gmail.com</a>
+I'm always open to collaboration. Feel free to share any comments, suggestions or discussions at <a href="mailto:emadelroby24@gmail.com">emadelrobys23@gmail.com</a>
 
 ## REST API with JWT Auth
 
@@ -15,4 +15,9 @@ It implements JWT-based REST API auth designed for mobile app integration, howev
 - <a href="https://jwt-auth.readthedocs.io/en/develop/laravel-installation">[tymon/jwt-auth]</a> 
 
 ## System Design
+
+- [database]
+- - [migrations]
+** Note: I used invisible method in table creation to hide the [password & remmber_token fields] **
+- - - [0001_01_01_000000_create_users_table.php]
 

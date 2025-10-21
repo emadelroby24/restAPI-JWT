@@ -12,7 +12,7 @@ It implements JWT-based REST API auth designed for mobile app integration, howev
 
 ### Packages Used
 
-- <a href="https://jwt-auth.readthedocs.io/en/develop/laravel-installation/)">[tymon/jwt-auth]</a> 
+- <a href="https://jwt-auth.readthedocs.io/en/develop/laravel-installation">[tymon/jwt-auth]</a> 
 
 ## System Design
 
